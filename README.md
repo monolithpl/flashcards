@@ -9,7 +9,7 @@
 - tiny code / no external dependencies (no jquery or react etc)
 
 ### screenshot / example
-![screenshot](http://monolithpl.github.io/flashcards/flashcards.png "screenshot")
+![screenshot](https://monolithpl.github.io/flashcards/flashcards.png "screenshot")
 
 ### demo
 [check it out here](http://monolithpl.github.io/flashcards)
