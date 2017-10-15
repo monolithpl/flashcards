@@ -19,4 +19,8 @@ Read up on the usefulness of flashcards here:
 
 MIT License
 
-Copyright 2016 Wiktor Jakubczyc
+Copyright 2016-2017 [Wiktor Jakubczyc](http://vocab.today/contact)
+
+---
+
+Part of [vocab.today teacher's resources toolkit](https://vocab.today/teacher)
